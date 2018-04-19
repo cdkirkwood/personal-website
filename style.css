@@ -1,0 +1,27 @@
+.header {
+  padding: 10vw;
+  height: 40vh;
+  display: flex;
+  align-items: center;
+  align-content: space-between;
+  flex-direction: column;
+}
+
+body {
+  background: radial-gradient(circle, #CDE4DA, #55D19E)
+}
+
+.picture {
+  display: flex;
+}
+
+.media {
+  width: 20vw;
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+}
+
+.photo {
+  border-radius: 30%;
+}
